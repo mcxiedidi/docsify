@@ -1,6 +1,4 @@
-![logo](_media/icon.svg)
-
-# 喵呜 <small>wiki</small>
+# 喵呜 wiki
 
 > 一个简简单单的wiki
 
